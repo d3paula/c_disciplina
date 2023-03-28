@@ -1,3 +1,7 @@
 Códigos da disciplina Programação em C
 
-Operadores
+Lista de temas:
+
+- Operadores
+-
+-
