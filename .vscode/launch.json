@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/depaula/C Programming Class/ADS/Operators",
-      "program": "/Users/depaula/C Programming Class/ADS/Operators/build/Debug/outDebug"
+      "cwd": "/Users/depaula/C Programming Class/ADS/Operators_Variaveis",
+      "program": "/Users/depaula/C Programming Class/ADS/Operators_Variaveis/build/Debug/outDebug"
     }
   ]
 }
